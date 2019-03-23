@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"8Agx":function(t,o){t.exports='<h1 id="title-of-the-2nd-post">Title of the 2nd post</h1>\n<p><em>italic</em> text, <strong>bold</strong> text</p>\n'}}]);
